@@ -2,19 +2,24 @@
   "name": "SamMatcherTS",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "clean": "rimraf ./dist && mkdir dist",
+    "webpack": "npm run clean && webpack"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "webpack": "^4.25.1"
+    "webpack": "^4.25.1",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.10"
   },
   "devDependencies": {
+    "@types/node": "^10.12.3",
     "awesome-typescript-loader": "^5.2.1",
     "source-map-loader": "^0.2.4",
+    "ts-loader": "^5.3.0",
     "typescript": "^3.1.6"
   }
 }
