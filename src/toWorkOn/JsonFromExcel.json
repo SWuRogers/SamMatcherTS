@@ -1,0 +1,30 @@
+{
+    "values" : [
+        ["cracktimeHeader","It would take a typical home computer"  ],
+        ["hackedAlertHeader","Compromised Password "  ],
+        ["hackedFeedback2","This password is known to cybercriminals far and wide!<br/>It has been publicly exposed in one or more data breaches."  ],
+        ["hackedWaysToImproveFeedback","Don't use it - it's compromised."  ],
+        ["hackedWaysToImproveFeedback2","Common variants of this password, such as adding numbers to the end or substituting 0's for o's, are also risky."  ],
+        ["hackedWaysToImproveFeedback3","Consider combining several unrelated words to make a long password that is still easy to remember"  ],
+        ["mediumFeedback","Middle of the road"  ],
+        ["mediumFeedback2","We know you can do better"  ],
+        ["strongFeedback","That's a strong password"  ],
+        ["strongFeedback2","...but it could be a little better"  ],
+        ["strongWaysToImproveFeedback","Add another word.  Uncommon words are better."  ],
+        ["top100Password","Worse yet, this password is one of the top 100 most common passwords.  Ouch!"  ],
+        ["topTenPassword","Worse yet, this password is one of the top 10 most common passwords.  Ouch!"  ],
+        ["veryCommonPassword","Worse yet, this password is one of the top 10,000 most common passwords.  Ouch!"  ],
+        ["verystrongFeedback","Now we're talking!"  ],
+        ["verystrongFeedback2","That's a pretty stout password you've got there"  ],
+        ["verystrongWaysToImproveFeedback","Looks good! No suggestions."  ],
+        ["veryweakFeedback","Wow, that's one awful password you've got there"  ],
+        ["veryweakFeedback2","Is your luggage combination 123456?"  ],
+        ["weakFeedback","This password is pretty weak"  ],
+        ["weakFeedback2","Seriously, please don't use it"  ],
+        ["hackedFeedback","Compromised Password Alert!"  ],
+        ["hackedAlertDetails","If it was exposed along with your username, an attacker may already know your exact credentials and could login directly without resorting to guessing."  ],
+        ["hackedNotimeFeedback","no time*"  ],
+        ["cracktimeFooter","To crack this password"  ],
+        ["waysToImproveHeader","Ways to Improve This Password"  ]
+      ]
+}
